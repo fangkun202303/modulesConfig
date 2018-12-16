@@ -1,1 +1,2 @@
 version: test
+from: configServer-master
