@@ -1,4 +1,4 @@
-from: userServer-master测试啊时代发生的
+from: userServer-master测试
 
 eureka:
   instance:
