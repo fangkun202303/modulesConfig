@@ -1,4 +1,4 @@
-from: userServer-master2
+from: userServer-master3
 
 eureka:
   instance:
