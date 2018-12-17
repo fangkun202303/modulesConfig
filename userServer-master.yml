@@ -1,5 +1,4 @@
-from: userServer-master测试大神
-
+from: userServer-master测
 eureka:
   instance:
     appname: userServer
