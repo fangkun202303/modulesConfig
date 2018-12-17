@@ -1,4 +1,4 @@
-from: userServer-master测为分公司的
+from: userServer-master
 eureka:
   instance:
     appname: userServer
