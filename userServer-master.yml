@@ -1,4 +1,4 @@
-from: userServer-master撒旦
+from: userServer-master撒旦asd
 eureka:
   instance:
     appname: userServer
