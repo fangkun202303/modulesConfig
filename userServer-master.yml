@@ -1,4 +1,4 @@
-from: userServer-master撒旦撒qqq
+from: userServer-master撒旦
 eureka:
   instance:
     appname: userServer
