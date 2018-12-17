@@ -19,7 +19,7 @@ spring:
   #数据库连接配置
   datasource:
     url: jdbc:oracle:thin:@127.0.0.1:1521:ORCL
-    username: CWBYSCAA
+    username: CWBYSC
     password: CWBYSC
     ### 阿里数据库的连接配置
     driverClassName: oracle.jdbc.driver.OracleDriver
